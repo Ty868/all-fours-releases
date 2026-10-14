@@ -1,3 +1,4 @@
+![Uploading s1.png…]()
 # Trini All Fours — test builds
 
 All Fours as it is played in Trinidad: four players, two partnerships, first
