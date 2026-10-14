@@ -4,7 +4,7 @@
 
 All Fours as it is played in Trinidad: four players, two partnerships, first
 to fourteen. High, Low, Jack and Game.
-<img width="1080" height="2220" alt="s1" src="https://github.com/user-attachments/assets/74307847-51d3-43a6-ae94-fe829c505158" />
+<img width="" height="500" alt="s1" src="https://github.com/user-attachments/assets/74307847-51d3-43a6-ae94-fe829c505158" />
 **[Download the latest APK from Releases →](https://github.com/Ty868/all-fours-releases/releases/latest)**
 
 This repository holds the builds only. The source lives elsewhere.
